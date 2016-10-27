@@ -1,0 +1,25 @@
+<div class="starter-template">
+  <div id="map" style="position:absolute;top:50px;bottom:0;left:0;right:0"></div>
+  <div id="loadIndicator">
+    <i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>
+    <span class="sr-only">Loading...</span>
+  </div>
+  <div class="legend" ng-class="{visible: vm.displayLegend}">
+    <div class="legendShow"><i class="fa fa-th-list fa-fw" ng-click="vm.legendGui('show')"></i></div>
+    <div class="row legendWrp">
+
+
+      <div class="legendInfo" ng-repeat="layer in vm.legend">
+        <h2>{{layer.title}}</h2>
+        <ul class="legendItems">
+          <li ng-repeat="item in layer.items" class="legendItem">
+            <i class="fa fa-square" aria-hidden="true" style="background-color:{{item.color}};color:{{item.color}}"></i> {{item.title}}
+          </li>
+        </ul>
+      </div>
+      <div class="legendHide">
+        <i class="fa fa-close fa-2x" ng-click="vm.legendGui('hide')"></i>
+      </div>
+    </div>
+  </div>
+</div>

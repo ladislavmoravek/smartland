@@ -1,0 +1,220 @@
+[{
+    "title": "Continuous urban fabric",
+    "code": 111,
+    "color": "#e6004d"
+  },
+  {
+    "title": "Discontinuous urban fabric",
+    "code": 112,
+    "color": "#ff0000"
+  },
+  {
+    "title": "Industrial or commercial units",
+    "code": 121,
+    "color": "#cc4df2"
+  },
+  {
+    "title": "Road and rail networks and associated land",
+    "code": 122,
+    "color": "#cc0000"
+  },
+  {
+    "title": "Port areas",
+    "code": 123,
+    "color": "#e6cccc"
+  },
+  {
+    "title": "Airports",
+    "code": 124,
+    "color": "#e6cce6"
+  },
+  {
+    "title": "Mineral extraction sites",
+    "code": 131,
+    "color": "#a600cc"
+  },
+  {
+    "title": "Dump sites",
+    "code": 132,
+    "color": "#a64d00"
+  },
+  {
+    "title": "Construction sites",
+    "code": 133,
+    "color": "#ff4dff"
+  },
+  {
+    "title": "Green urban areas",
+    "code": 141,
+    "color": "#ffa6ff"
+  },
+  {
+    "title": "Sport and leisure facilities",
+    "code": 142,
+    "color": "#ffe6ff"
+  },
+  {
+    "title": "Non-irrigated arable land",
+    "code": 211,
+    "color": "#ffffa8"
+  },
+  {
+    "title": "Permanently irrigated land",
+    "code": 212,
+    "color": "#ffff00"
+  },
+  {
+    "title": "Rice fields",
+    "code": 213,
+    "color": "#e6e600"
+  },
+  {
+    "title": "Vineyards",
+    "code": 221,
+    "color": "#e68000"
+  },
+  {
+    "title": "Fruit trees and berry plantations",
+    "code": 222,
+    "color": "#f2a64d"
+  },
+  {
+    "title": "Olive groves",
+    "code": 223,
+    "color": "#e6a600"
+  },
+  {
+    "title": "Pastures",
+    "code": 231,
+    "color": "#e6e64d"
+  },
+  {
+    "title": "Annual crops associated with permanent crops",
+    "code": 241,
+    "color": "#ffe6a6"
+  },
+  {
+    "title": "Complex cultivation patterns",
+    "code": 242,
+    "color": "#ffe64d"
+  },
+  {
+    "title": "Land principally occupied by agriculture with significant areas of natural vegetation",
+    "code": 243,
+    "color": "#e6cc4d"
+  },
+  {
+    "title": "Agro-forestry areas",
+    "code": 244,
+    "color": "#f2cca6"
+  },
+  {
+    "title": "Broad-leaved forest",
+    "code": 311,
+    "color": "#80ff00"
+  },
+  {
+    "title": "Coniferous forest",
+    "code": 312,
+    "color": "#00a600"
+  },
+  {
+    "title": "Mixed forest",
+    "code": 313,
+    "color": "#4dff00"
+  },
+  {
+    "title": "Natural grasslands",
+    "code": 321,
+    "color": "#ccf24d"
+  },
+  {
+    "title": "Moors and heathland",
+    "code": 322,
+    "color": "#a6ff80"
+  },
+  {
+    "title": "Sclerophyllous vegetation",
+    "code": 323,
+    "color": "#a6e64d"
+  },
+  {
+    "title": "Transitional woodland-shrub",
+    "code": 324,
+    "color": "#a6f200"
+  },
+  {
+    "title": "Beaches - dunes - sands",
+    "code": 331,
+    "color": "#e6e6e6"
+  },
+  {
+    "title": "Bare rocks",
+    "code": 332,
+    "color": "#cccccc"
+  },
+  {
+    "title": "Sparsely vegetated areas",
+    "code": 333,
+    "color": "#ccffcc"
+  },
+  {
+    "title": "Burnt areas",
+    "code": 334,
+    "color": "#000000"
+  },
+  {
+    "title": "Glaciers and perpetual snow",
+    "code": 335,
+    "color": "#a6e6cc"
+  },
+  {
+    "title": "Inland marshes",
+    "code": 411,
+    "color": "#a6a6ff"
+  },
+  {
+    "title": "Peat bogs",
+    "code": 412,
+    "color": "#4d4dff"
+  },
+  {
+    "title": "Salt marshes",
+    "code": 421,
+    "color": "#ccccff"
+  },
+  {
+    "title": "Salines",
+    "code": 422,
+    "color": "#e6e6ff"
+  },
+  {
+    "title": "Intertidal flats",
+    "code": 423,
+    "color": "#a6a6e6"
+  },
+  {
+    "title": "Water courses",
+    "code": 511,
+    "color": "#00ccf2"
+  },
+  {
+    "title": "Water bodies",
+    "code": 512,
+    "color": "#80f2e6"
+  },
+  {
+    "title": "Coastal lagoons",
+    "code": 521,
+    "color": "#00ffa6"
+  },
+  {
+    "title": "Estuaries",
+    "code": 522,
+    "color": "#a6ffe6"
+  },
+  {
+    "title": "Sea and ocean",
+    "code": 523,
+    "color": "#e6f2ff"
+  }]
