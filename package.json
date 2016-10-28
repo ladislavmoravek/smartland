@@ -9,7 +9,9 @@
     "grunt-contrib-uglify": "^2.0.0",
     "httpdispatcher": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
